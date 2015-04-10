@@ -675,10 +675,12 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			float: none;
 		}
 
 			ul.icons li {
 				display: inline-block;
+				float: none;
 				padding: 0 1.5em 0 0;
 			}
 
@@ -698,7 +700,7 @@
 
 			ul.icons-grid li {
 				display: block;
-				float: left;
+				float: none;
 				padding: 3em 0;
 				width: 50%;
 			}
